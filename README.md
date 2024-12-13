@@ -1,6 +1,6 @@
 #  Exp 1: Mean and variance of a discrete  distribution
-## Developed by : KARTHIK PADMANABAN R
-## Register number : 24001743
+## Developed by : Logesh.B
+## Register number : 24900577
 ## Date : 14.12.2024
 # Aim : 
 
@@ -50,8 +50,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ~~~
-Developed by : KARTHIK PADMANABAN R
-Register number : 24001743
+Developed by : Logesh.B
+Register number : 24900577
 ~~~
 ~~~
 import numpy as np
