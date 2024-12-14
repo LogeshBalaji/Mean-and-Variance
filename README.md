@@ -1,7 +1,7 @@
 #  Exp 1: Mean and variance of a discrete  distribution
 ## Developed by : Logesh.B
 ## Register number : 24900577
-## Date : 14.12.2024
+## Date : 21.09.2024
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
