@@ -1,6 +1,5 @@
 #  Exp 1: Mean and variance of a discrete  distribution
-## Developed by : Logesh.B
-## Register number : 24900577
+
 ## Date : 21.09.2024
 # Aim : 
 
